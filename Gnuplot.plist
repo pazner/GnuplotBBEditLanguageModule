@@ -554,39 +554,51 @@
       <key>RunKind</key> <string>com.barebones.bblm.keyword</string>
       <key>Keywords</key>
       <array>
-        <string>cd</string>
+        <string>bind</string>
         <string>call</string>
+        <string>cd</string>
         <string>clear</string>
+        <string>do</string>
+        <string>evaluate</string>
         <string>exit</string>
-        <string>set</string>
-        <string>unset</string>
-        <string>plot</string>
-        <string>splot</string>
-        <string>help</string>
-        <string>load</string>
-        <string>pause</string>
-        <string>quit</string>
         <string>fit</string>
-        <string>replot</string>
+        <string>help</string>
+        <string>history</string>
         <string>if</string>
+        <string>import</string>
+        <string>load</string>
+        <string>lower</string>
+        <string>pause</string>
+        <string>print</string>
+        <string>printerr</string>
+        <string>pwd</string>
+        <string>quit</string>
+        <string>raise</string>
+        <string>refresh</string>
+        <string>replot</string>
+        <string>reread</string>
+        <string>reset</string>
+        <string>save</string>
+        <string>set</string>
+        <string>shell</string>
+        <string>show</string>
+        <string>splot</string>
+        <string>stats</string>
+        <string>system</string>
+        <string>test</string>
+        <string>undefine</string>
+        <string>unset</string>
+        <string>update</string>
+        <string>while</string>
+<!-- 
         <string>FIT_LIMIT</string>
         <string>FIT_MAXITER</string>
         <string>FIT_START_LAMBDA</string>
         <string>FIT_LAMBDA_FACTOR</string>
         <string>FIT_LOG</string>
         <string>FIT_SCRIPT</string>
-        <string>print</string>
-        <string>pwd</string>
-        <string>reread</string>
-        <string>reset</string>
-        <string>save</string>
-        <string>show</string>
-        <string>test</string>
-        <string>functions</string>
-        <string>var</string>
-        <string>if</string>
+ -->
         <string>for</string>
-        <string>do</string>
       </array>
     </dict>
     <dict>
