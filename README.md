@@ -2,7 +2,7 @@
 
 ### Example ###
 
-<img src=sample.png width="584" height="508">
+<img src=sample.png width="580" height="508">
 
 ### Features ###
 * Highlight keywords and common abbreviations
