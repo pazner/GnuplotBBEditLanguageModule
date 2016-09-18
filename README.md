@@ -1,7 +1,8 @@
 # BBEdit codeless language module for [Gnuplot](http://www.gnuplot.info)
 
 ### Example ###
-![Gnuplot Syntax Highlighting](sample.png)
+
+<img src=sample.png width="584" height="508">
 
 ### Features ###
 * Highlight keywords and common abbreviations
